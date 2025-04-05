@@ -1,0 +1,28 @@
+# .gitignore in the project root (ttt-rl-web/)
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files (can be generated anywhere)
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ttt
+# *.dat
+# training_log.json
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# node_modules
+.client/node_modules/*
+.server/node_modules/*

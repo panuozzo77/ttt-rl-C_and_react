@@ -1,0 +1,12 @@
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
+  /* Center the board */
+  .game-board {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+  }

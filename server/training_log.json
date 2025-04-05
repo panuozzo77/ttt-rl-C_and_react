@@ -1,0 +1,47 @@
+[
+  {
+    "games": 10000,
+    "wins": 8668,
+    "losses": 0,
+    "ties": 1332,
+    "win_pct": 86.68,
+    "loss_pct": 0.00,
+    "tie_pct": 13.32
+  },
+  {
+    "games": 20000,
+    "wins": 8657,
+    "losses": 0,
+    "ties": 1343,
+    "win_pct": 86.57,
+    "loss_pct": 0.00,
+    "tie_pct": 13.43
+  },
+  {
+    "games": 30000,
+    "wins": 8624,
+    "losses": 0,
+    "ties": 1376,
+    "win_pct": 86.24,
+    "loss_pct": 0.00,
+    "tie_pct": 13.76
+  },
+  {
+    "games": 40000,
+    "wins": 8665,
+    "losses": 0,
+    "ties": 1335,
+    "win_pct": 86.65,
+    "loss_pct": 0.00,
+    "tie_pct": 13.35
+  },
+  {
+    "games": 50000,
+    "wins": 8566,
+    "losses": 0,
+    "ties": 1434,
+    "win_pct": 85.66,
+    "loss_pct": 0.00,
+    "tie_pct": 14.34
+  }
+]
